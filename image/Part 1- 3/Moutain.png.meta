@@ -1,0 +1,2188 @@
+fileFormatVersion: 2
+guid: 84138a3b89bd8bd4c8227e9a9817c8ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4054072254392381081
+    second: Moutain_0
+  - first:
+      213: 5689697507835532040
+    second: Moutain_1
+  - first:
+      213: 7395542768505784235
+    second: Moutain_2
+  - first:
+      213: 6691172037763241701
+    second: Moutain_3
+  - first:
+      213: 1410490578251453523
+    second: Moutain_4
+  - first:
+      213: -4558251737817175190
+    second: Moutain_5
+  - first:
+      213: -5460312214298781933
+    second: Moutain_6
+  - first:
+      213: 3287615951671692474
+    second: Moutain_7
+  - first:
+      213: -7012888260236528383
+    second: Moutain_8
+  - first:
+      213: -8265981208849587684
+    second: Moutain_9
+  - first:
+      213: 7752305160993588196
+    second: Moutain_10
+  - first:
+      213: -6102905839160860742
+    second: Moutain_11
+  - first:
+      213: 8259700886597790331
+    second: Moutain_12
+  - first:
+      213: 287694717849062629
+    second: Moutain_13
+  - first:
+      213: 2120210121604281890
+    second: Moutain_14
+  - first:
+      213: -8164042819346814454
+    second: Moutain_15
+  - first:
+      213: 6650209938156478414
+    second: Moutain_16
+  - first:
+      213: 5283741344307172610
+    second: Moutain_17
+  - first:
+      213: -7600351197851434023
+    second: Moutain_18
+  - first:
+      213: 4830064206146686514
+    second: Moutain_19
+  - first:
+      213: 1111329208653864714
+    second: Moutain_20
+  - first:
+      213: -7980914173646648248
+    second: Moutain_21
+  - first:
+      213: 3975904608985075679
+    second: Moutain_22
+  - first:
+      213: -7507160880078608611
+    second: Moutain_23
+  - first:
+      213: 4567537101712373721
+    second: Moutain_24
+  - first:
+      213: 8747411263709150810
+    second: Moutain_25
+  - first:
+      213: 2859711416622281581
+    second: Moutain_26
+  - first:
+      213: -9057744287787574196
+    second: Moutain_27
+  - first:
+      213: -5727330326442436206
+    second: Moutain_28
+  - first:
+      213: 1289544863484159912
+    second: Moutain_29
+  - first:
+      213: -3101751052055001633
+    second: Moutain_30
+  - first:
+      213: -5634403985186627041
+    second: Moutain_31
+  - first:
+      213: 4086934107409952592
+    second: Moutain_32
+  - first:
+      213: 4673428593314781505
+    second: Moutain_33
+  - first:
+      213: -6510406593884933316
+    second: Moutain_34
+  - first:
+      213: 7976545127861773929
+    second: Moutain_35
+  - first:
+      213: -254084549863599426
+    second: Moutain_36
+  - first:
+      213: 9154673662970782295
+    second: Moutain_37
+  - first:
+      213: -1103172933778983366
+    second: Moutain_38
+  - first:
+      213: -5861301268365109667
+    second: Moutain_39
+  - first:
+      213: 6271488388409456496
+    second: Moutain_40
+  - first:
+      213: -1344953889471904313
+    second: Moutain_41
+  - first:
+      213: -4599780916848963606
+    second: Moutain_42
+  - first:
+      213: 1522980431259691299
+    second: Moutain_43
+  - first:
+      213: 3926926935126671289
+    second: Moutain_44
+  - first:
+      213: 5886884052705586894
+    second: Moutain_45
+  - first:
+      213: -328842963826964733
+    second: Moutain_46
+  - first:
+      213: 1185147231018569249
+    second: Moutain_47
+  - first:
+      213: -494719392169413106
+    second: Moutain_48
+  - first:
+      213: 5392334850568829755
+    second: Moutain_49
+  - first:
+      213: -2974665053013008612
+    second: Moutain_50
+  - first:
+      213: -1034849476496544063
+    second: Moutain_51
+  - first:
+      213: 6125629385413312578
+    second: Moutain_52
+  - first:
+      213: -8514787925643453929
+    second: Moutain_53
+  - first:
+      213: 2893408690381847795
+    second: Moutain_54
+  - first:
+      213: 6884744351296455875
+    second: Moutain_55
+  - first:
+      213: -1377185246851726019
+    second: Moutain_56
+  - first:
+      213: -8311558283626665840
+    second: Moutain_57
+  - first:
+      213: -9212049530001136804
+    second: Moutain_58
+  - first:
+      213: -7830408229538116096
+    second: Moutain_59
+  - first:
+      213: -682618952917921075
+    second: Moutain_60
+  - first:
+      213: 3977829957983137601
+    second: Moutain_61
+  - first:
+      213: -7983837506127173126
+    second: Moutain_62
+  - first:
+      213: 8282475513755629235
+    second: Moutain_63
+  - first:
+      213: 7979945952492093736
+    second: Moutain_64
+  - first:
+      213: -7472240359164840636
+    second: Moutain_65
+  - first:
+      213: -721216553188039352
+    second: Moutain_66
+  - first:
+      213: -1351502156342603968
+    second: Moutain_67
+  - first:
+      213: -2163606816297562438
+    second: Moutain_68
+  - first:
+      213: -3690333479832644811
+    second: Moutain_69
+  - first:
+      213: 8127979261043122016
+    second: Moutain_70
+  - first:
+      213: 8740395911027239240
+    second: Moutain_71
+  - first:
+      213: 6654079882322433982
+    second: Moutain_72
+  - first:
+      213: -8082814132695856359
+    second: Moutain_73
+  - first:
+      213: -5764202446999915220
+    second: Moutain_74
+  - first:
+      213: -783257904836636825
+    second: Moutain_75
+  - first:
+      213: -3841651017685193741
+    second: Moutain_76
+  - first:
+      213: 3302652631181429541
+    second: Moutain_77
+  - first:
+      213: -7520593210776257998
+    second: Moutain_78
+  - first:
+      213: 6239012804006358311
+    second: Moutain_79
+  - first:
+      213: -6221313968966780661
+    second: Moutain_80
+  - first:
+      213: 6509883492013922710
+    second: Moutain_81
+  - first:
+      213: -104224388281345614
+    second: Moutain_82
+  - first:
+      213: -689094416793509936
+    second: Moutain_83
+  - first:
+      213: -4715144938830227123
+    second: Moutain_84
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moutain_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3159
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e23d86c35f24830800000000000000
+      internalID: 4054072254392381081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_1
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 896
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80356f1fcbdd5fe40800000000000000
+      internalID: 5689697507835532040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 865
+        width: 156
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70ff5f6fe32a660800000000000000
+      internalID: 7395542768505784235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_3
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 857
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e697e95481dbdc50800000000000000
+      internalID: 6691172037763241701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_4
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 895
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35496b335b1139310800000000000000
+      internalID: 1410490578251453523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_5
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 878
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ba992f136ddb0c0800000000000000
+      internalID: -4558251737817175190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_6
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 861
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3179ef798f21934b0800000000000000
+      internalID: -5460312214298781933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_7
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 879
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc8c4d1a45ff9d20800000000000000
+      internalID: 3287615951671692474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_8
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 883
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105381f78473dae90800000000000000
+      internalID: -7012888260236528383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_9
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 873
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c126776b2e5594d80800000000000000
+      internalID: -8265981208849587684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_10
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 878
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3437f6878b59b60800000000000000
+      internalID: 7752305160993588196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_11
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 859
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfd82f497f1e4ba0800000000000000
+      internalID: -6102905839160860742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_12
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 856
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ae3a0d13a50a270800000000000000
+      internalID: 8259700886597790331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_13
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 861
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec462552d81ef300800000000000000
+      internalID: 287694717849062629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_14
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 857
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226396b4fdf7c6d10800000000000000
+      internalID: 2120210121604281890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_15
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 869
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a21cd8f4e73be80800000000000000
+      internalID: -8164042819346814454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_16
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 865
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfd69554ba4a4c50800000000000000
+      internalID: 6650209938156478414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_17
+      rect:
+        serializedVersion: 2
+        x: 3614
+        y: 846
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205597812ce935940800000000000000
+      internalID: 5283741344307172610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_18
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 869
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3c9db9ad0268690800000000000000
+      internalID: -7600351197851434023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_19
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 833
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec3b10ec5d70340800000000000000
+      internalID: 4830064206146686514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_20
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 848
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f5456f60c3c6f00800000000000000
+      internalID: 1111329208653864714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_21
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 830
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c49e008d81e3190800000000000000
+      internalID: -7980914173646648248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_22
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 853
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfc4673d204d2730800000000000000
+      internalID: 3975904608985075679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_23
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 850
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17a43744f431d790800000000000000
+      internalID: -7507160880078608611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_24
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 843
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7bbfd4bc6236f30800000000000000
+      internalID: 4567537101712373721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_25
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 815
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e72a5d23c056970800000000000000
+      internalID: 8747411263709150810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_26
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 855
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6376ebc16cbfa720800000000000000
+      internalID: 2859711416622281581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_27
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 846
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c191c6f8d6c4280800000000000000
+      internalID: -9057744287787574196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_28
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 858
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299931da96f6480b0800000000000000
+      internalID: -5727330326442436206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_29
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 846
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a727e5983265e110800000000000000
+      internalID: 1289544863484159912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_30
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 844
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd541981add54f4d0800000000000000
+      internalID: -3101751052055001633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_31
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 852
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12e7e58d639ec1b0800000000000000
+      internalID: -5634403985186627041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_32
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 847
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f299ccae4b7b830800000000000000
+      internalID: 4086934107409952592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_33
+      rect:
+        serializedVersion: 2
+        x: 3598
+        y: 841
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1495ea37b8a5bd040800000000000000
+      internalID: 4673428593314781505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_34
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 857
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33b02c42b366a5a0800000000000000
+      internalID: -6510406593884933316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_35
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 836
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e211488162be60800000000000000
+      internalID: 7976545127861773929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_36
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 845
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb21776b27f497cf0800000000000000
+      internalID: -254084549863599426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_37
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 844
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7526ff3613feb0f70800000000000000
+      internalID: 9154673662970782295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_38
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 816
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a363744cf0eb0b0f0800000000000000
+      internalID: -1103172933778983366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_39
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 820
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d561d890d8978aea0800000000000000
+      internalID: -5861301268365109667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_40
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 833
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f124267dc80750800000000000000
+      internalID: 6271488388409456496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_41
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 822
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c54fba3093c55de0800000000000000
+      internalID: -1344953889471904313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_42
+      rect:
+        serializedVersion: 2
+        x: 3535
+        y: 808
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc89670ab4a20c0800000000000000
+      internalID: -4599780916848963606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_43
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 822
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329ea1512a6b22510800000000000000
+      internalID: 1522980431259691299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_44
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 823
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf7323ed3f3f7630800000000000000
+      internalID: 3926926935126671289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_45
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 822
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecead6b1bd962b150800000000000000
+      internalID: 5886884052705586894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_46
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 830
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30705321117bf6bf0800000000000000
+      internalID: -328842963826964733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_47
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 821
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e466f902d727010800000000000000
+      internalID: 1185147231018569249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_48
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 828
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06be3e75576229f0800000000000000
+      internalID: -494719392169413106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_49
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 824
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b3d1e0afb65da40800000000000000
+      internalID: 5392334850568829755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_50
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 813
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f146d05edd7b6d0800000000000000
+      internalID: -2974665053013008612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_51
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 818
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ceac6d42e973a1f0800000000000000
+      internalID: -1034849476496544063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_52
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 809
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2404147987b920550800000000000000
+      internalID: 6125629385413312578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_53
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 813
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9c32be7565d980800000000000000
+      internalID: -8514787925643453929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_54
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 813
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcfc3cbfd3772820800000000000000
+      internalID: 2893408690381847795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_55
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 812
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c40764b2868b8f50800000000000000
+      internalID: 6884744351296455875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_56
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 811
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d358e7b805143ece0800000000000000
+      internalID: -1377185246851726019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_57
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 803
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0982a7e07c967ac80800000000000000
+      internalID: -8311558283626665840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_58
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 813
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c536afe82c9382080800000000000000
+      internalID: -9212049530001136804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_59
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 816
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ec518d33dc45390800000000000000
+      internalID: -7830408229538116096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_60
+      rect:
+        serializedVersion: 2
+        x: 3622
+        y: 812
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2d062dda9d686f0800000000000000
+      internalID: -682618952917921075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_61
+      rect:
+        serializedVersion: 2
+        x: 3624
+        y: 806
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fed767547143730800000000000000
+      internalID: 3977829957983137601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_62
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 799
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af969de9616b33190800000000000000
+      internalID: -7983837506127173126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_63
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 790
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6764ae89341f270800000000000000
+      internalID: 8282475513755629235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_64
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 806
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8218b1170967ebe60800000000000000
+      internalID: 7979945952492093736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_65
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 802
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44574a3abf44d4890800000000000000
+      internalID: -7472240359164840636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_66
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 791
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8456815bd59bdf5f0800000000000000
+      internalID: -721216553188039352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_67
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 769
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f460a03ff7e3de0800000000000000
+      internalID: -1351502156342603968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_68
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 803
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe48f8501359f1e0800000000000000
+      internalID: -2163606816297562438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_69
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 809
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53318d7904d49ccc0800000000000000
+      internalID: -3690333479832644811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_70
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 801
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f9734f2126cc070800000000000000
+      internalID: 8127979261043122016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_71
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 793
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8492e01c5cf1c4970800000000000000
+      internalID: 8740395911027239240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_72
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 801
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d6ece56a085c50800000000000000
+      internalID: 6654079882322433982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_73
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 791
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b0823fe5314df80800000000000000
+      internalID: -8082814132695856359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_74
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 784
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25f12d1a607100b0800000000000000
+      internalID: -5764202446999915220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_75
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 799
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f02bed51f4125f0800000000000000
+      internalID: -783257904836636825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_76
+      rect:
+        serializedVersion: 2
+        x: 3609
+        y: 777
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb2bdbd0c6bfaac0800000000000000
+      internalID: -3841651017685193741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_77
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 786
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b0412e11165dd20800000000000000
+      internalID: 3302652631181429541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_78
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 776
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a7773125c71a790800000000000000
+      internalID: -7520593210776257998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_79
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 773
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da9ebe61d659650800000000000000
+      internalID: 6239012804006358311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_80
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 779
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b093f8b38e379a9a0800000000000000
+      internalID: -6221313968966780661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_81
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 774
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6995bae8b80c75a50800000000000000
+      internalID: 6509883492013922710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_82
+      rect:
+        serializedVersion: 2
+        x: 3602
+        y: 774
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9de879878bd8ef0800000000000000
+      internalID: -104224388281345614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_83
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 784
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df51566748df66f0800000000000000
+      internalID: -689094416793509936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moutain_84
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 770
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491b88f8a0709eb0800000000000000
+      internalID: -4715144938830227123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

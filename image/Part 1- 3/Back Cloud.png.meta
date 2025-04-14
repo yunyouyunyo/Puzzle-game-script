@@ -1,0 +1,1198 @@
+fileFormatVersion: 2
+guid: 57ca432801398514094511830a3812ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5520853978115173826
+    second: Back Cloud_0
+  - first:
+      213: -8657555004032476295
+    second: Back Cloud_1
+  - first:
+      213: 758754136567160940
+    second: Back Cloud_2
+  - first:
+      213: -5075558238494408923
+    second: Back Cloud_3
+  - first:
+      213: 4892557628632015603
+    second: Back Cloud_4
+  - first:
+      213: -7745190105369057452
+    second: Back Cloud_5
+  - first:
+      213: 642044180106843649
+    second: Back Cloud_6
+  - first:
+      213: 7796898406224261300
+    second: Back Cloud_7
+  - first:
+      213: -1750794728656001848
+    second: Back Cloud_8
+  - first:
+      213: 2862929751776136737
+    second: Back Cloud_9
+  - first:
+      213: -396682269261411409
+    second: Back Cloud_10
+  - first:
+      213: -2911760268869360041
+    second: Back Cloud_11
+  - first:
+      213: -6738126618540679421
+    second: Back Cloud_12
+  - first:
+      213: 4014285971382666522
+    second: Back Cloud_13
+  - first:
+      213: 2767607420489313511
+    second: Back Cloud_14
+  - first:
+      213: -884349479174357704
+    second: Back Cloud_15
+  - first:
+      213: 2778413952413209479
+    second: Back Cloud_16
+  - first:
+      213: -8426335740399880932
+    second: Back Cloud_17
+  - first:
+      213: 1649747648181184368
+    second: Back Cloud_18
+  - first:
+      213: -903274455126663868
+    second: Back Cloud_19
+  - first:
+      213: 1359830391499561898
+    second: Back Cloud_20
+  - first:
+      213: -6726916909837708860
+    second: Back Cloud_21
+  - first:
+      213: -5916804441045598778
+    second: Back Cloud_22
+  - first:
+      213: 9221615652561369104
+    second: Back Cloud_23
+  - first:
+      213: -9152860596957925143
+    second: Back Cloud_24
+  - first:
+      213: 9048564231093764083
+    second: Back Cloud_25
+  - first:
+      213: 5325650111324072633
+    second: Back Cloud_26
+  - first:
+      213: 4270022561305492547
+    second: Back Cloud_27
+  - first:
+      213: -1834738291782783677
+    second: Back Cloud_28
+  - first:
+      213: 4346848804930343667
+    second: Back Cloud_29
+  - first:
+      213: 3201300421236286039
+    second: Back Cloud_30
+  - first:
+      213: -4873926934286199875
+    second: Back Cloud_31
+  - first:
+      213: -2506209843185367462
+    second: Back Cloud_32
+  - first:
+      213: -8712669690872358736
+    second: Back Cloud_33
+  - first:
+      213: 5003564145912198533
+    second: Back Cloud_34
+  - first:
+      213: 9039887126653909313
+    second: Back Cloud_35
+  - first:
+      213: -5765154142870398784
+    second: Back Cloud_36
+  - first:
+      213: 3413220595144386041
+    second: Back Cloud_37
+  - first:
+      213: 5248058725034195320
+    second: Back Cloud_38
+  - first:
+      213: 6666057652806051290
+    second: Back Cloud_39
+  - first:
+      213: 7640639233399884182
+    second: Back Cloud_40
+  - first:
+      213: -656750323438375959
+    second: Back Cloud_41
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back Cloud_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 148
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3294a1ce8cf163b0800000000000000
+      internalID: -5520853978115173826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 159
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b1d31f79f2ad780800000000000000
+      internalID: -8657555004032476295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 141
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a1fdfdd2a78a00800000000000000
+      internalID: 758754136567160940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fbbbd6caeff89b0800000000000000
+      internalID: -5075558238494408923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 118
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f22db9cd3bd5e340800000000000000
+      internalID: 4892557628632015603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 168
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4576b9b82ae838490800000000000000
+      internalID: -7745190105369057452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 154
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1061065b7cff8e800800000000000000
+      internalID: 642044180106843649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 88
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b07ecc6ac5243c60800000000000000
+      internalID: 7796898406224261300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_8
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 169
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c425db687de3b7e0800000000000000
+      internalID: -1750794728656001848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 166
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8387d07b2bb720800000000000000
+      internalID: 2862929751776136737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4afbe393be7af0800000000000000
+      internalID: -396682269261411409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 139
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75622fe66795797d0800000000000000
+      internalID: -2911760268869360041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f57426a8d5d72a0800000000000000
+      internalID: -6738126618540679421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_13
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 112
+        width: 150
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15091782db95b730800000000000000
+      internalID: 4014285971382666522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_14
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 5
+        width: 542
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec20081944886620800000000000000
+      internalID: 2767607420489313511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83db28c85d82ab3f0800000000000000
+      internalID: -884349479174357704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 87
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7831490e4c8ee8620800000000000000
+      internalID: 2778413952413209479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_17
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 87
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15794be944af0b80800000000000000
+      internalID: -8426335740399880932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_18
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 105
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07720eaceb415e610800000000000000
+      internalID: 1649747648181184368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 95
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d9d773bace673f0800000000000000
+      internalID: -903274455126663868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 76
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab9c1059861fd210800000000000000
+      internalID: 1359830391499561898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_21
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 113
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c11e8316b035a2a0800000000000000
+      internalID: -6726916909837708860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 110
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf50e95b943eda0800000000000000
+      internalID: -5916804441045598778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 81
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0183a1ae392c9ff70800000000000000
+      internalID: 9221615652561369104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_24
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 72
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e037afe7c18af080800000000000000
+      internalID: -9152860596957925143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 17
+        width: 83
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff36a11a35f29d70800000000000000
+      internalID: 9048564231093764083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_26
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 35
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baad7b4f8288e940800000000000000
+      internalID: 5325650111324072633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_27
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 11
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c748d55ea224b30800000000000000
+      internalID: 4270022561305492547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_28
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 47
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dea769e33b986e0800000000000000
+      internalID: -1834738291782783677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 30
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2543e15fb135c30800000000000000
+      internalID: 4346848804930343667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_30
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 5
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752e81b95cd4d6c20800000000000000
+      internalID: 3201300421236286039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_31
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 43
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db399a4c6455c5cb0800000000000000
+      internalID: -4873926934286199875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_32
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5649541d67283dd0800000000000000
+      internalID: -2506209843185367462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_33
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 58
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89d3ee311661780800000000000000
+      internalID: -8712669690872358736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 41
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5853af7a41b307540800000000000000
+      internalID: 5003564145912198533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_35
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 15
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14935d14271247d70800000000000000
+      internalID: 9039887126653909313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_36
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 61
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c896d62ade0effa0800000000000000
+      internalID: -5765154142870398784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_37
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 61
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5e0a91c023e5f20800000000000000
+      internalID: 3413220595144386041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_38
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 44
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8797d02ea99d4d840800000000000000
+      internalID: 5248058725034195320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_39
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 0
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad567cfed18928c50800000000000000
+      internalID: 6666057652806051290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_40
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 42
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69986b3a6e0090a60800000000000000
+      internalID: 7640639233399884182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Cloud_41
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb25597f01c2e6f0800000000000000
+      internalID: -656750323438375959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 868111b35dfbca74db683ff2dd38d4bd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Back Cloud_0: -5520853978115173826
+      Back Cloud_1: -8657555004032476295
+      Back Cloud_10: -396682269261411409
+      Back Cloud_11: -2911760268869360041
+      Back Cloud_12: -6738126618540679421
+      Back Cloud_13: 4014285971382666522
+      Back Cloud_14: 2767607420489313511
+      Back Cloud_15: -884349479174357704
+      Back Cloud_16: 2778413952413209479
+      Back Cloud_17: -8426335740399880932
+      Back Cloud_18: 1649747648181184368
+      Back Cloud_19: -903274455126663868
+      Back Cloud_2: 758754136567160940
+      Back Cloud_20: 1359830391499561898
+      Back Cloud_21: -6726916909837708860
+      Back Cloud_22: -5916804441045598778
+      Back Cloud_23: 9221615652561369104
+      Back Cloud_24: -9152860596957925143
+      Back Cloud_25: 9048564231093764083
+      Back Cloud_26: 5325650111324072633
+      Back Cloud_27: 4270022561305492547
+      Back Cloud_28: -1834738291782783677
+      Back Cloud_29: 4346848804930343667
+      Back Cloud_3: -5075558238494408923
+      Back Cloud_30: 3201300421236286039
+      Back Cloud_31: -4873926934286199875
+      Back Cloud_32: -2506209843185367462
+      Back Cloud_33: -8712669690872358736
+      Back Cloud_34: 5003564145912198533
+      Back Cloud_35: 9039887126653909313
+      Back Cloud_36: -5765154142870398784
+      Back Cloud_37: 3413220595144386041
+      Back Cloud_38: 5248058725034195320
+      Back Cloud_39: 6666057652806051290
+      Back Cloud_4: 4892557628632015603
+      Back Cloud_40: 7640639233399884182
+      Back Cloud_41: -656750323438375959
+      Back Cloud_5: -7745190105369057452
+      Back Cloud_6: 642044180106843649
+      Back Cloud_7: 7796898406224261300
+      Back Cloud_8: -1750794728656001848
+      Back Cloud_9: 2862929751776136737
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
